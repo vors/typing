@@ -1,6 +1,7 @@
-[![Chat at https://gitter.im/python/typing](https://badges.gitter.im/python/typing.svg)](https://gitter.im/python/typing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![Chat on Python Discord](https://badgen.net/discord/online-members/python)](https://discord.com/channels/267624335836053506/891788761371906108) `#type-hinting`
+|chat platform|badge|channel|
+|---------|--------|--------|
+| gitter  | [![Chat at https://gitter.im/python/typing](https://badges.gitter.im/python/typing.svg)](https://gitter.im/python/typing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) | n/a |
+| discord | [![Chat on Python Discord](https://badgen.net/discord/online-members/python)](https://discord.com/channels/267624335836053506/891788761371906108) | `#type-hinting` |
 
 # Static Typing for Python
 
